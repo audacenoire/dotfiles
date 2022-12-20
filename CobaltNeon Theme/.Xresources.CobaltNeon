@@ -1,3 +1,6 @@
+
+*.scrollBar: false
+*.font: xft:Terminus:style=bold:pixelsize=22
 ! special
 *.foreground:   #8ff586
 *.background:   #142631
