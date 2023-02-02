@@ -1,0 +1,42 @@
+#Environment Variables
+env: 
+  font: Terminess TTF Nerd Font Mono
+
+
+#Font
+font: 
+  size: 16
+  normal:
+    family: Terminess TTF Nerd Font Mono
+    style: Bold
+
+# Colors (CobaltNeon)
+
+#schemes: 
+#cobaltneon: &cobaltneon: 
+colors:
+  # Default colors
+  primary:
+    background: '0x142631'
+    foreground: '0x8ff586'
+  normal: 
+    black:   '0x142631'
+    red:     '0xff2320'
+    green:   '0x3ba5ff'
+    yellow:  '0xe9e75c'
+    blue:    '0x8ff586'
+    magenta: '0x781aa0'
+    cyan:    '0x8ff586'
+    white:   '0xba46b2'
+  bright: 
+    black:   '0xfff688'
+    red:     '0xd4312e'
+    green:   '0x8ff586'
+    yellow:  '0xe9f06d'
+    blue:    '0x3c7dd2'
+    magenta: '0x8230a7'
+    cyan:    '0x6cbc67'
+    white:   '0x8ff586'
+  transparent_background_colors: true
+
+  
